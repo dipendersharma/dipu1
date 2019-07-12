@@ -2,4 +2,5 @@
 <TopicsForObjects xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableTopics>false</enableTopics>
     <entityApiName>Dipender_AC__c</entityApiName>
+    <entityApiName>Dipender_TW__c</entityApiName>
 </TopicsForObjects>
