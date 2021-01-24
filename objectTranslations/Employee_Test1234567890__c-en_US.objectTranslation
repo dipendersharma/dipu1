@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Employee_Test1234567890</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Employee</value>
+    </caseValues>
+    <fields>
+        <label><!-- Bonus --></label>
+        <name>Bonus__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employee Desig --></label>
+        <name>Employee_Desig__c</name>
+        <picklistValues>
+            <masterLabel>Associate Software Engineer</masterLabel>
+            <translation><!-- Associate Software Engineer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lead Engineer</masterLabel>
+            <translation><!-- Lead Engineer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Senior Software Engineer</masterLabel>
+            <translation><!-- Senior Software Engineer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software Engineer</masterLabel>
+            <translation><!-- Software Engineer --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Employee ID --></label>
+        <name>Employee_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Joining Date --></label>
+        <name>Joining_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location --></label>
+        <name>Location__c</name>
+    </fields>
+    <fields>
+        <label><!-- PAN Number --></label>
+        <name>PAN_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone Number --></label>
+        <name>Phone_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Projects --></label>
+        <name>Projects__c</name>
+        <relationshipLabel><!-- Employee --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Resume --></label>
+        <name>Resume__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salary --></label>
+        <name>Salary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Skill Set --></label>
+        <name>Skill_Set__c</name>
+        <picklistValues>
+            <masterLabel>.Net</masterLabel>
+            <translation><!-- .Net --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>API</masterLabel>
+            <translation><!-- API --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Angular JS</masterLabel>
+            <translation><!-- Angular JS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Functional Testing</masterLabel>
+            <translation><!-- Functional Testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Java</masterLabel>
+            <translation><!-- Java --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>QTP</masterLabel>
+            <translation><!-- QTP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Selenium</masterLabel>
+            <translation><!-- Selenium --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Testing1 --></label>
+        <name>Testing1__c</name>
+        <picklistValues>
+            <masterLabel>2A</masterLabel>
+            <translation><!-- 2A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2B</masterLabel>
+            <translation><!-- 2B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2C</masterLabel>
+            <translation><!-- 2C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2D</masterLabel>
+            <translation><!-- 2D --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2E</masterLabel>
+            <translation><!-- 2E --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2F</masterLabel>
+            <translation><!-- 2F --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2G</masterLabel>
+            <translation><!-- 2G --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2H</masterLabel>
+            <translation><!-- 2H --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2I</masterLabel>
+            <translation><!-- 2I --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2J</masterLabel>
+            <translation><!-- 2J --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2K</masterLabel>
+            <translation><!-- 2K --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2L</masterLabel>
+            <translation><!-- 2L --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2M</masterLabel>
+            <translation><!-- 2M --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2N</masterLabel>
+            <translation><!-- 2N --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2O</masterLabel>
+            <translation><!-- 2O --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2P</masterLabel>
+            <translation><!-- 2P --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2Q</masterLabel>
+            <translation><!-- 2Q --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2R</masterLabel>
+            <translation><!-- 2R --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2S</masterLabel>
+            <translation><!-- 2S --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2T</masterLabel>
+            <translation><!-- 2T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2U</masterLabel>
+            <translation><!-- 2U --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2V</masterLabel>
+            <translation><!-- 2V --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2W</masterLabel>
+            <translation><!-- 2W --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2X</masterLabel>
+            <translation><!-- 2X --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2Y</masterLabel>
+            <translation><!-- 2Y --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2Z</masterLabel>
+            <translation><!-- 2Z --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>A1</masterLabel>
+            <translation><!-- A1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B1</masterLabel>
+            <translation><!-- B1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C1</masterLabel>
+            <translation><!-- C1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D1</masterLabel>
+            <translation><!-- D1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E1</masterLabel>
+            <translation><!-- E1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F1</masterLabel>
+            <translation><!-- F1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G1</masterLabel>
+            <translation><!-- G1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>H1</masterLabel>
+            <translation><!-- H1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I1</masterLabel>
+            <translation><!-- I1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>J1</masterLabel>
+            <translation><!-- J1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>K1</masterLabel>
+            <translation><!-- K1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>L1</masterLabel>
+            <translation><!-- L1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M1</masterLabel>
+            <translation><!-- M1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N1</masterLabel>
+            <translation><!-- N1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>O1</masterLabel>
+            <translation><!-- O1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation><!-- P1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Q1</masterLabel>
+            <translation><!-- Q1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>R1</masterLabel>
+            <translation><!-- R1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>S1</masterLabel>
+            <translation><!-- S1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T1</masterLabel>
+            <translation><!-- T1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>U1</masterLabel>
+            <translation><!-- U1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>V1</masterLabel>
+            <translation><!-- V1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>W1</masterLabel>
+            <translation><!-- W1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X1</masterLabel>
+            <translation><!-- X1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Y1</masterLabel>
+            <translation><!-- Y1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Z1</masterLabel>
+            <translation><!-- Z1 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Testing2_2 --></label>
+        <name>Testing2_2__c</name>
+        <picklistValues>
+            <masterLabel>Alaknanda</masterLabel>
+            <translation><!-- Alaknanda --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Beas</masterLabel>
+            <translation><!-- Beas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Brahmaputra</masterLabel>
+            <translation><!-- Brahmaputra --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chambal</masterLabel>
+            <translation><!-- Chambal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ganges</masterLabel>
+            <translation><!-- Ganges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Godavari</masterLabel>
+            <translation><!-- Godavari --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Indus</masterLabel>
+            <translation><!-- Indus --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kaveri</masterLabel>
+            <translation><!-- Kaveri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Krishna</masterLabel>
+            <translation><!-- Krishna --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mahanadi</masterLabel>
+            <translation><!-- Mahanadi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Narmada</masterLabel>
+            <translation><!-- Narmada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rushikulya</masterLabel>
+            <translation><!-- Rushikulya --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sabarmati</masterLabel>
+            <translation><!-- Sabarmati --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sarayu</masterLabel>
+            <translation><!-- Sarayu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sutlej</masterLabel>
+            <translation><!-- Sutlej --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tapti (Tapi)</masterLabel>
+            <translation><!-- Tapti (Tapi) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tungabhadra</masterLabel>
+            <translation><!-- Tungabhadra --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yamuna</masterLabel>
+            <translation><!-- Yamuna --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>hugli</masterLabel>
+            <translation><!-- hugli --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Start Time --></label>
+        <name>Work_Start_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Working Days --></label>
+        <name>Working_Days__c</name>
+    </fields>
+    <layouts>
+        <layout>test</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- EmpRecordType --></label>
+        <name>EmpRecordType</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Salary must be Greater than Zero --></errorMessage>
+        <name>EmpSal</name>
+    </validationRules>
+</CustomObjectTranslation>
